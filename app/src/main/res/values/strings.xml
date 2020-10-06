@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ConstraintLayoutFour</string>
+
+    <string name="strOne">Russia,S,Petersburg</string>
+    <string name="strTwo">196048 RU</string>
+    <string name="strThree">Milionnaya astreet 29,flat</string>
+    <string name="strFour">10</string>
+
+
+
+</resources>
